@@ -1,2 +1,3 @@
-# https://checkio.org/
-My attempt on some of the coding challenges on Checkio
+# Checkio solutions
+My attempt on some of the coding challenges on Checkio 
+https://checkio.org/
